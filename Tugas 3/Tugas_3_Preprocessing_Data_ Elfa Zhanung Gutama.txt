@@ -1,0 +1,4 @@
+Nama 			: Elfa Zhanung Gutama
+NIM			: A11.2020.12769
+Kelompok 		: 4403
+Link Git Hub 	: https://github.com/elfa-zhanung28/Data-Mining.git
